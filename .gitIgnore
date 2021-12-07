@@ -1,0 +1,8 @@
+//Estas son las variables de entorno
+.env
+
+//Estas son las dependencias de NODE
+node_modules
+
+//Esto es la Carpeta contruida
+dist
